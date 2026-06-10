@@ -110,9 +110,16 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm 
+🎯 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
+
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikanta1015)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manikantavejandla.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-manikantavejandla2468%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manikantavejandla2468@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manikanta%20Vejandla-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta1015)
+[![GitHub](https://img.shields.io/badge/GitHub-ManikantaVejandla04-181717?style=flat&logo=github&logoColor=white)](https://github.com/ManikantaVejandla04)
+
+---
+
+⭐ *If you find my work interesting, feel free to star this repository!*
